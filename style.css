@@ -1,0 +1,21 @@
+.checkers-board {
+    background: #fff;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.checkers-field{
+    width:12.5%;
+    height:12.5%;
+    display: flex;
+}
+
+.checkers-field-dark{
+background: black
+}
+
+.checkers-field-light{
+    background: white
+}
